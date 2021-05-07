@@ -14,8 +14,8 @@ collections:
     output: true
 email: email@cryptocoinsnow.org
 description: Cryptocurrencies latest streaming pricing data
-baseurl: "/coins"
-url: 
+baseurl: ""
+url: http://coins.siteleaf.net/
 twitter_username: coingecko
 github_username: coingecko
 theme: minima
